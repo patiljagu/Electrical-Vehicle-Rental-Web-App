@@ -1,0 +1,31 @@
+.DashBoard_Container {
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+}
+.DashBoard_Container h5{
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.Dashboard_Card {
+    background-color: #f4ffc7;
+    text-align: center;
+    padding: 30px;
+    border-radius: 15px;
+    cursor: pointer;
+    margin-bottom: 25px;
+  
+}
+
+
+.Dashboard_second_Container h5{
+  padding-bottom: 10px;
+  font-weight: 600;
+    
+}
+
+.DashBoard_Table{
+ width: 350px;
+ margin-left: 10px;
+}

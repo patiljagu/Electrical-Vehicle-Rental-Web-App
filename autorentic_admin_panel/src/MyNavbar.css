@@ -1,0 +1,79 @@
+.MNav {
+    background-color: black;
+    padding: 10px;
+}
+
+.brandname {
+    color: white !important;
+    font-size: 20px;
+    vertical-align: auto;
+    cursor: pointer;
+    margin-left: 40px;
+
+
+}
+
+.Offcanvas {
+    background-color: black;
+    width: 300px !important
+}
+
+.Offcanvas h6 {
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+    cursor: pointer;
+
+}
+
+.Main {
+    padding-top: 50px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-bottom:70px ;
+
+    
+}
+
+.Main a {
+    font-size: 16px;
+    padding: 8px;
+    margin: 8px;
+    border-radius: 10px;
+  
+
+}
+.Main a :active,
+.Main a:hover {
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 600;
+    background-color: #ffc600;
+    color: black;
+   
+}
+
+.Offlink {
+    color: #fff;
+    text-decoration: none;
+    text-align: center;
+    font-size: 20px;
+
+}
+
+
+.OffCanvas_Header h6 {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding-top: 20px;
+
+
+}
+
+.offconvas_footer h5{
+    font-size: 13px;
+    text-align: center;
+    color: #fff;
+}

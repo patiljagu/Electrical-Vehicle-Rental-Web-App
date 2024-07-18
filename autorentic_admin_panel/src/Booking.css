@@ -1,0 +1,27 @@
+.Booking-container h1{
+    font-weight: 600;
+    font-size: 30px;
+    margin: 3%;
+
+}
+
+
+.BookingCard{
+    width: 17rem;
+    height: 300px;
+    background-color: #ffc600;
+    margin-bottom: 5%;
+    border: 0;
+}
+
+.BookingCard span {
+    font-size: 17px;
+    font-weight: 600;
+    
+}
+
+.BookingCard h6{
+    font-size: 16px;
+   
+
+}
